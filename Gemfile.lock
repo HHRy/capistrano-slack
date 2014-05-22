@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     capistrano-slack (1.2.0)
-      activesupport (>= 2.3.16, < 4)
+      activesupport (>= 2.0, < 4)
       capistrano (~> 2)
       capistrano-log_with_awesome (~> 0.0.2)
 
